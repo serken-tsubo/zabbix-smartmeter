@@ -1,4 +1,4 @@
-module github.com/hnw/mackerel-plugin-smartmeter
+module github.com/serken-tsubo/zabbix-smartmeter
 
 go 1.14
 
