@@ -1,4 +1,4 @@
-module github.com/serken-tsubo/zabbix-smartmeter
+module github.com/serkenn/zabbix-smartmeter
 
 go 1.14
 
