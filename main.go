@@ -1,6 +1,6 @@
 package main
 
-import "github.com/hnw/mackerel-plugin-smartmeter/lib"
+import "github.com/serken-tsubo/zabbix-smartmeter/lib/"
 
 func main() {
 	mpsm.Do()
